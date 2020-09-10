@@ -1,0 +1,8 @@
+README FILE
+
+Main code - final_code.py
+folder for disparity images - disparity1
+left and right images - 2010_03_09_drive_0019
+Calibration file - 2010_03_09_drive_0019_calib.txt
+Groundtruth data file - 2010_03_09_drive_0019/insdata.txt
+Video output file - Video_successful.avi
